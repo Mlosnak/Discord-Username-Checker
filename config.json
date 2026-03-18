@@ -1,0 +1,9 @@
+{
+    "webhook_url": "Your_Discord_Webhook",
+    "concurrency": 10,
+    "timeout": 8,
+    "max_retries": 1,
+    "retry_delay_base": 1.0,
+    "proxy_cooldown_seconds": 30,
+    "rate_limit_safety_margin": 0.5
+}

@@ -1,0 +1,4 @@
+requests>=2.31.0
+colorama>=0.4.6
+pysocks>=1.7.1
+psutil>=5.9.0
